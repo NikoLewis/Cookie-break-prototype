@@ -1,0 +1,55 @@
+body,html{
+  padding: 0;
+  margin: 0;
+}
+#root{
+  background-color: white;
+background-image: url("https://www.transparenttextures.com/patterns/arabesque.png");
+}
+#hero{
+  background-color: #222;
+ 
+  height: 450px;
+  width: 100%;
+  background-image: url('../cookieimage.jpg');
+  background-size: contain;
+}
+
+#heroheader{
+  margin: 0;
+  text-align: center;
+
+}
+
+
+
+#fortune-area{
+  font-family: 'Lora', serif;
+  font-size: 24px;
+  font-weight: bold;
+  background-color: white;
+  padding: 40px;
+}
+
+button:hover{
+   background-color: #a611bd;
+   
+}
+
+button{
+  padding: 10px 30px 10px 30px;
+  margin: 30px;
+  border-radius: 10px;
+  font-size: 2em;
+  border: none;
+  transition-duration: .7s;
+  background-color:  #ff1874;
+  color: white;
+
+
+
+}
+
+.output{
+  text-align: center;
+}
