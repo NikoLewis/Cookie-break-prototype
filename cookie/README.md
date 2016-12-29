@@ -1,4 +1,5 @@
 
+Check out the changes I'm working on here:
 [![Stories in Ready](https://badge.waffle.io/NikoLewis/Cookie-break-prototype.png?label=ready&title=Ready)](http://waffle.io/NikoLewis/Cookie-break-prototype)
 
 This project was forked from [Create React App](https://github.com/facebookincubator/create-react-app) and has been modified to use mostly ES5 (instead of ES6).
